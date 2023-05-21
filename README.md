@@ -11,6 +11,7 @@ The maximum thrust last checked in 2023 where between 3.7kgf to 4.1Kgf - dependi
 
 # THE LICENSE IS CERN-OHL-P (Permissive)
 ![image](https://github.com/Alliance-Open-Thrust/Athena-A-2ET-1.64_Alliance/assets/24481026/a52f917a-47ed-49f7-9073-155290a58159)
+https://ohwr.org/cern_ohl_p_v2.pdf
 
 Any further fork and/or modification must bear the original authors: Neva-Aero and the Human Team Members between 2013 and 2022 : F.M. Robert Vergnes, Laurent Martin, David Brotherton-Ratcliffe, Renaud-Pierre Blanpain, Daniel Schübeler, Sandro Pinent, Anthony Gambus, Tal Stokes, Valentin Bertrand, Louis Fourdan, Elie de Fonclare 
 
