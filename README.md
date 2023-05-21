@@ -1,9 +1,9 @@
-# Athena-A-2ET-1.64_Alliance
+# Athena-A-2ET Electric Ducted Fan (EDF) -  Alliance Edition
 Athena-A 2ET V 1.64 - 2 stages electric ducted fan for static thrust - Alliance Edition - CERN-OHL-P (permissive)
 
 ![Athena-A-2ET_1 6x_BluePrint_night_style](https://github.com/Alliance-Open-Thrust/Athena-A-2ET-1.64_Alliance/assets/24481026/82b73361-a380-490d-9527-6b23617052e6)
 
-This is the repository for the Alliance Edition Release of the legacy to the community of makers from Neva Aerospace Ltd (UK) for the Static Thrust Electric Ducted Fan (EDF) Athena.
+This is the repository for the Alliance Edition Release of the legacy to the community of makers from Neva Aerospace Ltd (UK) for the Athena Static Thrust Electric Ducted Fan (EDF) (Electric Turbine ) (Turbine de Poussée Statique Electrique).
 The Athena-A-2ET-V1.64 is a 2 stages contra-rotative elecric ducted fan optimised for static thrust (hovering) with maximum linear speed under 50kph (30mph).
 
 The maximum thrust last checked in 2023 where between 3.7kgf to 4.1Kgf - depending on the make of the Athena with 6S motors and one-pass epoxy-coated PLA blades on the rotors.
