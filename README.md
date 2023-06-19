@@ -14,7 +14,7 @@ The maximum thrust last checked in 2023 where between 3.7kgf to 4.1Kgf. It depen
 https://ohwr.org/cern_ohl_p_v2.pdf
 
 Any further fork and/or modification must bear the following Notice as per chapter 1.6 of Definition of the OHL-p :
-"acknowledgement of the Original Authors: Neva-Aero and the Human Team Members between 2013 and 2022 : F.M. Robert Vergnes, Laurent Martin, David Brotherton-Ratcliffe, Renaud-Pierre Blanpain, Daniel Schübeler, Sandro Pinent, Anthony Gambus, Tal Stokes, Valentin Bertrand, Tomas Valaitis, Louis Fourdan, Elie de Fonclare, Gilles Coïa"
+"acknowledgement of the Original Authors: Neva-Aero and the Human Team Members between 2013 and 2022 : F.M. Robert Vergnes, Laurent Martin, David Brotherton-Ratcliffe, Renaud-Pierre Blanpain, Daniel Schübeler, Sandro Pinent, Anthony Gambus, Tal Stokes, Valentin Bertrand, Tomas Valaitis, Louis Fourdan, Elie de Fonclare, Gilles Coïa, Domantas Brucas"
 
 
 # About 3D Printing
