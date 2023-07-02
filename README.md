@@ -22,10 +22,17 @@ All 3D printed parts must be in Polycarbonate in order to sustain mechanical con
 Only blades can be Printed in PLA with epoxy light coating.
 All rotors must be balanced after assembly before mounting to the turbine.
 
-# About using this repository
-MAIN WILL NOT CHANGE.
-The main of repository will be locked to the initial commit to avoid losing information. 
-Please do create a new branch for a new version or create your own fork.
-Please check the branch for the early or the last version of the project.
 
+# About using this repository
+This Main repository will not change.
+
+The Initial Commit Release date for the Main Repository is 30th of June 2023 and is for the Athena-A-2ET-1.64 (known as Athena 1.64 )
+
+The main of repository will be locked to the initial commit to avoid losing information.
+
+If you want to download or participate, please check the branch for the last version of the project.
+
+If you want to participate please contact the Open-Thrust Core Team.
+
+If you want to create a new branch for a new version please do fork or contact the Open-Thrust Core Team.
 
